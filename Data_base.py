@@ -1,6 +1,6 @@
 """ Nombre: Data_base.py
 Objetivo: codigo CRUD para operar base de datos
-Autor: Juan Luis Magaña Paz 
+Autor: Juan Luis Magaña Paz & M. A. Ascencio Y.
 Fecha: 27 de agosto de 2019
 """
 import pymysql
