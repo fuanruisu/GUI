@@ -1,0 +1,68 @@
+Explicación del programa:
+
+El primer programa se hizo con mi colaboración
+(Manuel Alejandro Ascencio Ysordia) el cual es 
+el diseño del ventana menu de los trabajadores. 
+Las opciones que tiene el menu son:
+-Trabajadores -Reportes -Créditos
+
+y cada opción se despliega una columna donde
+trabajadores tiene la opción de Agregar,Buscar,
+Cambiar,Borrar.
+
+Para opción de trabajadores hice una plantilla,
+donde la opción de Agregar trataba en el programa
+sobre 4 label o etiquetas que era Nombre,clave y
+sueldo y  un label hasta arriba que indica que era
+la opción de agregar y 3 entry o cuadros de texto
+donde el usuario ponia los valores a esos 
+parametros de la plantilla y un boton que se llama
+enviar.
+
+Cuando el usuario escriba los datos en los entry
+y si oprime el boton enviar, hara que se guarde
+esos datos en la lista agr.
+
+En la plantilla de buscar es muy diferente a la de 
+agregar porque solo tiene 2 label o etiquetas
+que son la de clave y un label hasta arriba que
+dice buscar, ademas tiene un boton que se llama
+enviar; si se oprime se guarda el dato en una 
+variable llamada a, ademas se abre una nueva 
+ventana donde te dice la nueva ventana los datos
+del trabajador que quisiste buscar.
+
+La plantilla cambiar es identica a la de agregar
+pero tiene un label de mas donde se llama
+clave anterior, para saber que trabajador se le
+cambiaran los datos.
+
+Por ultimo, la plantilla Borrar es identica a la 
+de buscar pero solamente se diferencia de que
+buscar se abre una nueva ventana.
+
+Para el apartado de Creditos, se tiene que si
+ oprimes la opción de ¿Quienes somos?, te dice
+la ventana los creadores del programa y en la 
+opción Salir, si se oprime te saca de la ventana.
+
+A que aclarar que las plantillas se borran de la
+pantalla cuando oprimes otra opción del menu.
+
+Advertencia, no se puede borrar la información
+de los entry solo dando un click en el boton enviar
+uno tiene que oprimir la opción otra vez para que
+se borre la información ya capturada, osea, si
+yo quiero encontrar los datos de 2 trabajadores
+de con una clave "1", ingreso "1" y le doy enviar;
+ ahora quisiera enviar la clave del segundo 
+trabajador que es clave "2" pero no podria poner
+el 2 porque aun sigue el "1" aunque alla oprimido
+enviar, lo que se tendria que hacer para eliminar
+el texto, seria hacer click otra vez a la opción 
+buscar.
+
+El segundo programa lo hizo mi amigo Juan Luis 
+Magaña Paz, donde le pase una lista y variables 
+para cada campo de la base de datos que se vincula
+con un localhost como respaldo.
